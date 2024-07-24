@@ -8,8 +8,12 @@
     Para ver a branch sou usar 'git branch'
     E para excluíla 'git branch -d ,nome da branch>'
 
-Testando se a branch 'nome_da_branch' vai ser commitada corretamente, 
-só sera possivel ver essa parte nessa branch
+
+#9. Git revert 
+    git revert serve para, para ser uma forma segura de desfazer os commits usados
+    podendo ser possivel apagar definitivamente os commits usando o 'git reset', recomendado usar quando esta na branch local.
+    
+
 
 
 
