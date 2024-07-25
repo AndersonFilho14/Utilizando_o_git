@@ -12,4 +12,12 @@
     para voltar com ele, busque o commit que ele estava presente e use 
     'git checkout <hash_do_commit>~1 <nome do arquivo a ser resgatado dentro daquele commit>'
 
---------------testando pra ver se a alteração do stash ira ficar------------------
+
+#Git stash
+    Se um projeto que ir pra outra branch, e não quer levar o projeto inacabado para outra branch se usa o 
+    'git stash'
+    depois que ver oque tinha que ser feito, para voltar o stash.usa:
+        'git stash apply <stash>'   Uso: Quando você deseja aplicar as mudanças da stash, mas ainda quer manter a stash para poder aplicá-la novamente ou em outro lugar.
+        'git stash pop <stash>' Uso: Quando você deseja aplicar as mudanças da stash e não precisa mais dela depois de aplicá-la.
+    'git stash list' mostras os stash que foram feitos
+    'git stash clear' limpa os stash 
