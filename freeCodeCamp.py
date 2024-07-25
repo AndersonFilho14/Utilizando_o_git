@@ -13,7 +13,7 @@
     git revert serve para, para ser uma forma segura de desfazer os commits usados
     podendo ser possivel apagar definitivamente os commits usando o 'git reset', recomendado usar quando esta na branch local.
     para ver quais commits foram feitos, usa o 'git log --oneline'
-
+    
 
 
 
