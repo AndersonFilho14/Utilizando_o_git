@@ -21,3 +21,9 @@
         'git stash pop <stash>' Uso: Quando você deseja aplicar as mudanças da stash e não precisa mais dela depois de aplicá-la.
     'git stash list' mostras os stash que foram feitos
     'git stash clear' limpa os stash 
+
+#git config 
+    O config é um comando inicial para vincular o trabalho no repositório com sua conta no github. Assim, é configurado com o nome e com o e-mail. 
+    'git config --global user.name "<nome>'
+    'git config --global user.email <email>'
+    
