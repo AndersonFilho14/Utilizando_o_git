@@ -11,7 +11,3 @@
     cherry-pick é uma escolher a dedo, pegando um commit expecifico em outra branch e trazendo para sua
     Correção de Bugs: Você pode querer aplicar um commit que corrige um bug em várias branches diferentes.
     'git cherry-pick <hash do commit>'
-
-
-
-teste do cherry pick 
